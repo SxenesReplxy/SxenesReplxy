@@ -3,3 +3,4 @@
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/397afc18-8e37-4bde-89aa-ffb92d3e869e" />
 <img width="98" height="56" alt="image" src="https://github.com/user-attachments/assets/bd2af6e0-f05b-451d-a9b1-1695b205d6b5" />
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/899cf530-db1f-4720-b404-ff920f539bed" />
+https://discord.com/channels/@me/1347605302190800937/1549842300979384452
